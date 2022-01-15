@@ -1,5 +1,9 @@
 [![Header](https://github.com/billiedark/billiedark/blob/main/mpEQuQm.png?raw=true)](https://dbd20rank.net/)
 
+### Software developer
+
+![Flutter](https://img.shields.io/badge/-С#-0a0a0a?style=for-the-badge&logo=appveyor&logo=%23&logoColor=bd24e3)
+![Flutter](https://img.shields.io/badge/-Python-0a0a0a?style=for-the-badge&logo=appveyor&logo=python&logoColor=24e387)
 <!--
 **billiedark/billiedark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
