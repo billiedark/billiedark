@@ -1,7 +1,9 @@
 [![Header](https://github.com/billiedark/billiedark/blob/main/mpEQuQm.png?raw=true)](https://dbd20rank.net/)
 
 ### Software developer
+From Ukraine. In 2015 for the first time I got interested and started to try myself in this field. Created servers for Minecraft, Garry's Mod, CS 1.6. Started to write full-fledged and working code for production from 2019 till now.
 
+### What I know
 ![C%23](https://img.shields.io/badge/-С%23-0a0a0a?style=for-the-badge&logo=c-sharp&logoColor=bd24e3)
 ![Python](https://img.shields.io/badge/-Python-0a0a0a?style=for-the-badge&logo=python&logoColor=24e387)
 ![MySQL](https://img.shields.io/badge/-MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=e3e3e3)
