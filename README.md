@@ -2,7 +2,7 @@
 
 ### Software developer
 
-![C#](https://img.shields.io/badge/-С#-0a0a0a?style=for-the-badge&logo=java&logoColor=bd24e3)
+![C](https://img.shields.io/badge/-С#-0a0a0a?style=for-the-badge&logo=c&logoColor=bd24e3)
 ![Python](https://img.shields.io/badge/-Python-0a0a0a?style=for-the-badge&logo=python&logoColor=24e387)
 
 <!--
