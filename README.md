@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Header](https://github.com/billiedark/billiedark/blob/main/mpEQuQm.png?raw=true)](https://dbd20rank.net/)
 
 <!--
 **billiedark/billiedark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
